@@ -23,4 +23,4 @@ git clone https://github.com/Andreisft/crud-spring-boot.git
 
 ## Authors
 
-* **Andrei** - [Andrei](https://github.com/andreisft)
+* [Andrei](https://github.com/andreisft)
